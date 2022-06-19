@@ -2,9 +2,9 @@
   "name": "code",
   "version": "0.1.0",
   "private": true,
-  "engine": {
-    "node": "16.13.2"
-  },
+   "engines": { 
+   "node": "16.13.2" 
+  } 
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
